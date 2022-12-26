@@ -13,3 +13,7 @@ https://github.com/PierfrancescoSoffritti/android-youtube-player/tree/a9b5a70292
  https://www.youtube.com/watch?v=<u>_I4c-Al9hCI
  the last part is the video id
 ## Demo video 
+
+
+https://user-images.githubusercontent.com/83555471/209549100-c8f301cb-e3f7-4894-a589-6b9a82546ed5.mp4
+
