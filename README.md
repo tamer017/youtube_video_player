@@ -11,4 +11,5 @@ https://github.com/PierfrancescoSoffritti/android-youtube-player/tree/a9b5a70292
 
 ## Example 
  https://www.youtube.com/watch?v=<u>_I4c-Al9hCI
+ the last part is the video id
 ## Demo video 
