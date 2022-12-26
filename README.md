@@ -1,7 +1,7 @@
 # youtube_video_player
-### Mobile App using Kotlin
+## Mobile App using Kotlin
 
-Our applications consist of 2 interfaces:
+Our application consist of 2 interfaces:
 The first one display an input texfield that takes the input from the user.
 The input is the ID of any youtube video which is the last part in the URL.
 After pressing the search button the application moves to the next interface.
